@@ -1,0 +1,30 @@
+id: IBECEA84C
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:34:41.593485'
+last_modified: '2022-06-11T13:34:41.593496'
+parser: null
+source_metadata:
+  title: Dharmakīrti Series
+  language: en
+  description: 'Texts by and about the celebrated Indian philosopher Dharmakīrti (chos
+    kyi grags pa):'
+  volume:
+    fA134:
+      title: Guru Sādhana of Glorious Dharmakīrti
+      base_file: fA134.txt
+      order: 1
+      parent: Guru Yoga
+    fE181:
+      title: Benedictory Verses for Pramāṇavārttika
+      base_file: fE181.txt
+      order: 2
+      parent: Benedictory Verses
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
